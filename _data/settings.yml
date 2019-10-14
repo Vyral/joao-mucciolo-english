@@ -50,8 +50,8 @@ sidebar_CTA:
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/001.jpg
-    CTA_title2: "Looking for a Home?"
-    CTA_text2: "Search the entire MLS for your Property."
+    CTA_title2: "What’s Your Property Worth?"
+    CTA_text2: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text2: "Property Evaluation"
     CTA_url2: /property-value/
 
