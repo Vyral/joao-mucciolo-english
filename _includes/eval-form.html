@@ -98,7 +98,7 @@
     <fieldset>
         <!--5-->
         <label for="when">
-            When are you looking to move?
+            When are you looking to buy?
         </label>
         <select name="when">
             <option value="Undetermined" selected="selected">
@@ -121,7 +121,38 @@
         <label for="range">
             What is your desired asking price?
         </label>
-        <input name="range">
+        <input type="text" name="range">
+
+        <label for="oceanfront">
+          Are you looking for an Oceanview/Ocean Front property?
+        </label>
+        <select name="oceanview">
+            <option value="-Select-" selected="selected">
+                -Select-
+            </option>
+            <option value="Yes">
+                Yes
+            </option>
+            <option value="No">
+                No
+            </option>
+        </select>
+
+        <label for="gated">
+          Are you looking for a Gated Community or Independent house?
+        </label>
+        <select name="gated">
+            <option value="-Select-" selected="selected">
+                -Select-
+            </option>
+            <option value="Gated Community">
+                Gated Community
+            </option>
+            <option value="Independent house">
+                Independent house
+            </option>
+        </select>
+
         <!--8-->
         <label for="name">Name<span class="asterisk">*</span>
         </label>
