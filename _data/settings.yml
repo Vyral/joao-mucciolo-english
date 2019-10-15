@@ -30,8 +30,8 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Joao@trinityrealestate.com
-  url: https://www.kwnicaragua.com/joao
+  email: joao.mucciolo@kwnicaragua.com
+  # url: https://www.kwnicaragua.com/joao
 
 CTAs:
   first_CTA_text: Listings Search
