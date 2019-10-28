@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How is the State of the San Juan Del Sur Real Estate Market?
-date: 2019-10-28 14:45:13
+date: 2019-10-28 14:45:00
 tags:
   - Market Update
 excerpt: >-
