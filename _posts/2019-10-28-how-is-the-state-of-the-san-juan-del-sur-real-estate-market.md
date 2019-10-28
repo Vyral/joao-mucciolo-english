@@ -19,8 +19,7 @@ youtube_code: X9ZiA33Kd4o
 
 {% include youtube.html %}
 
-Although our country is going through some tough times, our real estate market remains quite active. Here are some of the latest trends.
-
+<p style="text-align:center;"><em>Although our country is going through some tough times, our real estate market remains quite active. Here are some of the latest trends.</em></p>
 Nicaragua is going through some tough, uncertain times right now, but it doesn’t mean that our real estate market has been inactive. **On the contrary, it’s been very active.**
 
 All of the sellers who have been willing to reduce their prices have been able to sell their properties. We’re definitely in a buyer’s market, but **there aren’t a ton of buyers out there, so sometimes a price reduction is necessary to get a deal done.**
