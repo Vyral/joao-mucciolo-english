@@ -30,6 +30,6 @@ We are seeing a mix of lot, house, and condo purchases. None of these are more p
 
 The rental market has been pretty active as well. **Most investors have been able to lower their rents while also being able to see positive cash flow numbers.**
 
-If you have any questions for me about the real estate market or about real estate in general, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about the real estate market or real estate in general, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
 
 &nbsp;
