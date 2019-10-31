@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Although our country is going through some tough times, our real estate market
   remains quite active. Here are some of the latest trends.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Como+es+el+Estado+del+Mercado+Bienes+Raices+de+San+Juan+del+Sur_+(1).mp4
 pullquote: 'We’re seeing a mix of lot, house, and condo purchases.'
 enclosure_type: video/mp4
 enclosure_time:
