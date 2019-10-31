@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao-mucciolo--an-update-on-our-local-real-estate-market-youtube-1.jpg
-youtube_code: X9ZiA33Kd4o
+youtube_code: a_Hqcu6N-Zc
 ---
 
 {% include youtube.html %}
