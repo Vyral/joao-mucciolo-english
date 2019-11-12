@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Reasons to Love Life in San Juan del Sur
-date:
+date: 2019-11-12 16:28:09
 tags:
   - Real Estate
 excerpt: >-
