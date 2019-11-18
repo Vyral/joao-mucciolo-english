@@ -18,18 +18,19 @@ youtube_alternate_image: >-
 youtube_code: w4sNyCgdUXs?t=149
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/w4sNyCgdUXs?start=150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p style="text-align:center;"><em>Although our country is going through some tough times, our real estate market remains quite active. Here are some of the latest trends.</em></p><center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/w4sNyCgdUXs?start=150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Nicaragua is going through some tough, uncertain times right now, but it doesn’t mean that our real estate market has been inactive. **On the contrary, it’s been quite active.**
+<p style="text-align:center;"><em>Although our country is going through some tough times, our real estate market remains quite active. Here are some of the latest trends.</em></p>
 
-Some sellers who have been willing to reduce their prices have been able to sell their properties. We’re definitely in a buyer’s market, but **there aren’t a ton of buyers out there, so sometimes a price reduction is necessary to get a possible deal done.**
+Nicaragua is going through some tough, uncertain times right now, but it doesn’t mean that our real estate market has been inactive. <strong>On the contrary, it’s been quite active.</strong>
+
+Some sellers who have been willing to reduce their prices have been able to sell their properties. We’re definitely in a buyer’s market, but <strong>there aren’t a ton of buyers out there, so sometimes a price reduction is necessary to get a possible deal done.</strong>
 
 We are seeing a mix of lot, house, and condo purchases. None of these are more popular than the others. As long as the prices are in accordance to the level of risk the investor who purchases the real estate is taking, the chance of selling increases.
 
 {% include pullquote.html %}
 
-The rental market has been pretty active as well. **Most investors have had to lower their rents in order to increase occupancy and cover costs, while some have been able to see positive cash flow numbers.**
+The rental market has been pretty active as well. <strong>Most investors have had to lower their rents in order to increase occupancy and cover costs, while some have been able to see positive cash flow numbers.</strong>
 
 If you have any questions for me about the real estate market or real estate in general, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
 
