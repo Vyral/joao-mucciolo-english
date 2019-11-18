@@ -19,7 +19,7 @@ youtube_alternate_image: >-
   /uploads/joao-mucciolo---why-we-love-living-in-san-juan-del-sur---por-qué-nos-encanta-vivir-en-san-juan-del-sur-youtube.jpg
 youtube_code:
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/G0hUcct57DA?start=237" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/U7YGc1YgGyA?start=237" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 <p style="text-align:center;"><em>Today, I’m joined by a special guest, Veronica—my wife—to share 10 reasons why we love to live in San Juan del Sur.</em></p>
