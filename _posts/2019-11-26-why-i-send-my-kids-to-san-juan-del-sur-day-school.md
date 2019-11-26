@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Send My Kids to San Juan del Sur Day School
-date: 2019-11-26 15:23:23
+date: 2019-11-26 15:23:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,7 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: >-
+  /uploads/joao-mucciolo---por-qué-envío-a-mis-hijos---why-i-send-my-kids-youtube.jpg
 youtube_code: COnvBhmsbJc
 ---
 
