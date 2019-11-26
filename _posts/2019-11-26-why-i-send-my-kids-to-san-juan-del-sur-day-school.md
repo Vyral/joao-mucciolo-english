@@ -21,7 +21,7 @@ youtube_code: COnvBhmsbJc
 
 <p style="text-align:center;"><em>Today I’m interviewing the founder and principal of San Juan del Sur Day School to show you why it’s such a great place to send your children.</em></p>
 
-Today I’m interviewing Julie Spire, the founder and principal of the San Juan del Sur Day School. Why? Because every time I tell someone I moved San Juan del Sur, they ask what I do about schooling for my children. This school has allowed us to live here and know our kids are receiving a great education. If you want additional information about the school, you can visit their website [here.](https://sanjuandelsurdayschool.com/){: target="_blank"}.
+Today I’m interviewing Julie Spire, the founder and principal of the San Juan del Sur Day School. Why? Because every time I tell someone I moved San Juan del Sur, they ask what I do about schooling for my children. This school has allowed us to live here and know our kids are receiving a great education. If you want additional information about the school, you can visit their website [here.](https://sanjuandelsurdayschool.com/){: target="_blank"}
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
