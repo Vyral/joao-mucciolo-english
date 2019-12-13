@@ -22,7 +22,7 @@ youtube_code: jZ55bvVpqrE
 
 {% include youtube.html %}
 
-If you’re looking to buy or rent a luxury home, I know just the place: Malibu in Pacific Marlin.&nbsp;
+<p style="text-align: center;"><em>If you’re looking to buy or rent a luxury home, I know just the place: Malibu in Pacific Marlin.&nbsp;</em></p>
 
 Today I’m spotlighting the exclusive Malibu properties in Pacific Marlin in San Juan Del Sur. Joining me is the properties’ developer, Lance Rader of Malibu Developments.
 
