@@ -22,7 +22,7 @@ youtube_code: jZ55bvVpqrE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re looking to buy or rent a luxury home, I know just the place: Malibu in Pacific Marlin.&nbsp;</em></p>
+*If you’re looking to buy or rent a luxury home, I know just the place: Malibu in Pacific Marlin.&nbsp;*
 
 Today I’m spotlighting the exclusive Malibu properties in Pacific Marlin in San Juan del Sur. Joining me is the properties’ developer, Lance Rader of Malibu Developments.
 
@@ -44,7 +44,7 @@ What’s Lance’s favorite part of San Juan del Sur? The same reasons he picked
 
 If you’d like to know more about these properties or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
 
-**Check out our featured listings:**
+**Check out our featured listings in Malibu:**
 
 * [Duplex House in Malibu: 3 bed, 3 bath](https://www.kwnicaragua.com/listingDetails/1082-169)
 * [Townhouse in Malibu: 3 bed, 3 bath](https://www.kwnicaragua.com/listingDetails/1082-200)
