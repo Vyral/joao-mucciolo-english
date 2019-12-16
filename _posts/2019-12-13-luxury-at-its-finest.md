@@ -46,6 +46,6 @@ If you’d like to know more about these properties or you have any other real e
 
 Check out featured listings:&nbsp;
 
-![](/uploads/first-listing.jpeg){: width="500" height="333"}
+<p style="image-align: center;">![](/uploads/first-listing.jpeg){: width="400" height="233"}</p>
 
 &nbsp;
