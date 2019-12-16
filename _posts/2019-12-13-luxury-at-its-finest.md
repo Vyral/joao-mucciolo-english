@@ -44,8 +44,3 @@ What’s Lance’s favorite part of San Juan del Sur? The same reasons he picked
 
 If you’d like to know more about these properties or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
 
-Check out featured listings:&nbsp;
-
-<p style="image-align: center;">![](/uploads/first-listing.jpeg){: width="400" height="233"}</p>
-
-&nbsp;
