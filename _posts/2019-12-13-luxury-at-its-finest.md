@@ -44,3 +44,9 @@ What’s Lance’s favorite part of San Juan del Sur? The same reasons he picked
 
 If you’d like to know more about these properties or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
 
+Check out our featured listings:
+
+* [Duplex House in Malibu: 3 bed, 3 bath](https://www.kwnicaragua.com/listingDetails/1082-169)
+* [Townhouse in Malibu: 3 bed, 3 bath](https://www.kwnicaragua.com/listingDetails/1082-200)
+* [Exclusive Residence in Malibu: 4 bed, 4 bath](https://www.kwnicaragua.com/listingDetails/1082-636)
+* [Luxury House in Malibu: 4 bed, 4 bath](https://www.kwnicaragua.com/listingDetails/1082-903)
