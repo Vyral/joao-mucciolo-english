@@ -22,7 +22,7 @@ youtube_code: jZ55bvVpqrE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re looking to buy or rent a luxury home, I know just the place: Malibu in Pacific Marlin.&nbsp;</em></p>
+*If you’re looking to buy or rent a luxury home, I know just the place: Malibu in Pacific Marlin.&nbsp;*
 
 Today I’m spotlighting the exclusive Malibu properties in Pacific Marlin in San Juan del Sur. Joining me is the properties’ developer, Lance Rader of Malibu Developments.
 
@@ -43,5 +43,9 @@ Lance relocated to Nicaragua about 10 years ago, and his main business is buildi
 What’s Lance’s favorite part of San Juan del Sur? The same reasons he picked this spot to build in the first place: the beaches, weather, and fantastic nightlife.&nbsp;
 
 If you’d like to know more about these properties or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
+
+Check out featured listings:&nbsp;
+
+![](/uploads/first-listing.jpeg){: width="500" height="333"}
 
 &nbsp;
