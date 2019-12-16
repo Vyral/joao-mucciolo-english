@@ -36,7 +36,7 @@ Lance relocated to Nicaragua about 10 years ago, and his main business is buildi
 
 * Single-family homes between 3,000 and 4,000 square feet featuring three and four bedrooms with infinity pools overlooking the ocean
 * A 3-bedroom/3-bath duplex—also with an infinity pool overlooking the ocean
-* 3-bedroom/3-bedroom townhomes about 2,000 square feet with a valley view
+* 3-bedroom/3-bathroom townhomes about 2,000 square feet with a valley view and community pool
 
 **Malibu also offers a great rental management program** which most of the property owners put their homes through. They have on-site management and staff to take care of the properties, and they advertise heavily for them—their occupancy rate is as high as 80%, depending on the time of year. Every house comes fully furnished with top-of-the-line appliances and every item renters need. Their furniture is of the high-end, contemporary style, and they both build it locally and import it from the US.&nbsp;
 
