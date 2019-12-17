@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Special Holiday Message From Our Family to Yours
-date:
+date: 2019-12-17 17:48:01
 tags:
   - Real Estate
 excerpt: 'In light of the holiday season, we want to share what we’re thankful for.'
