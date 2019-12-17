@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Special Holiday Message From Our Family to Yours
-date: 2019-12-17 17:48:01
+date: 2019-12-17 17:48:00
 tags:
   - Real Estate
 excerpt: 'In light of the holiday season, we want to share what we’re thankful for.'
@@ -17,7 +17,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>In light of the holiday season, we want to share what we’re thankful for.</em></p>
+*In light of the holiday season, we want to share what we’re thankful for.*
 
 Christmas is here, which means now is the time for gratitude. Here at Trinity Real Estate, we’re very grateful. **2019 was a difficult year in Nicaragua, but we have many blessings for which we’re grateful.**
 
