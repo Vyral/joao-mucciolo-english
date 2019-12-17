@@ -17,7 +17,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-In light of the holiday season, we want to share what we’re thankful for.
+<p style="text-align:center";><em>In light of the holiday season, we want to share what we’re thankful for.</em></p>
 
 Christmas is here, which means now is the time for gratitude. Here at Trinity Real Estate, we’re very grateful. **2019 was a difficult year in Nicaragua, but we have many blessings for which we’re grateful.**
 
