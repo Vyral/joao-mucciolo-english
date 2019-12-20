@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/joao-mucciolo---a-special-holiday-message-yout
 youtube_code: sVBqWTr7O4g
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pI9oXfX9laU?start=129" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pI9oXfX9laU?start=127" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 <p style="text-align:center;"><em>In light of the holiday season, we want to share what we’re thankful for.</em></p>
 
