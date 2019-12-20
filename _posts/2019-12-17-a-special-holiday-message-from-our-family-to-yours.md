@@ -15,9 +15,9 @@ youtube_alternate_image: /uploads/joao-mucciolo---a-special-holiday-message-yout
 youtube_code: sVBqWTr7O4g
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sVBqWTr7O4g?start=120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pI9oXfX9laU?start=129" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-*In light of the holiday season, we want to share what we’re thankful for.*
+<p style="text-align:center;"><em>In light of the holiday season, we want to share what we’re thankful for.</em></p>
 
 Christmas is here, which means now is the time for gratitude. Here at Trinity Real Estate, we’re very grateful. **2019 was a difficult year in Nicaragua, but we have many blessings for which we’re grateful.**
 
