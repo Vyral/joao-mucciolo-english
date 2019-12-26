@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The most impressive thing about this exclusive San Juan del Sur home isn’t the
   home itself. It’s the view.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Una+Casa+Hermosa+con+una+Vista+Hermosa.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
