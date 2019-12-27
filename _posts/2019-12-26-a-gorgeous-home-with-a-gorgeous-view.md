@@ -14,10 +14,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:/uploads/san-juan-del-sur-youtube.jpg
-youtube_code:_42AnC_Txq8
+youtube_code:
 ---
-
-<center><iframe width="560" height="315" src="https://youtu.be/_42AnC_Txq8?t=90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 <p style="text-align:center;"><em>The most impressive thing about this exclusive San Juan del Sur home isn’t the home itself. It’s the view.</em></p>
 
