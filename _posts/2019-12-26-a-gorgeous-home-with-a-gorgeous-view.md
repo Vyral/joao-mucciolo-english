@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Gorgeous Home With a Gorgeous View
+title: A Gorgeous Home with a Gorgeous View
 date: 2019-12-26 21:07:00
 tags:
   - Real Estate
