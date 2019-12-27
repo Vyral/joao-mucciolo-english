@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:/uploads/san-juan-del-sur-youtube.jpg
-youtube_code: _42AnC_Txq8?t=90
+youtube_code: _42AnC_Txq8
 
 ---
 
