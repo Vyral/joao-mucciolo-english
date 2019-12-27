@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:/uploads/san-juan-del-sur-youtube.jpg
-youtube_code:
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_42AnC_Txq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
