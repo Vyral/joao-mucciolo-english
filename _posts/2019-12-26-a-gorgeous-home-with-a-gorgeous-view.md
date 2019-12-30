@@ -21,6 +21,6 @@ youtube_code: _42AnC_Txq8
 
 <p style="text-align:center;"><em>The most impressive thing about this exclusive San Juan del Sur home isn’t the home itself. It’s the view.</em></p>
 
-Today we’re showing you one of our exclusive properties here in San Juan del Sur. Although this is a gorgeous 4-bedroom, 4-bathroom, nearly-500 sq. meter property, the most impressive thing about it is its breathtaking view of San Juan del Sur. To see a firsthand tour of this gorgeous property, watch our latest video.
+Today we’re showing you one of our exclusive properties here in San Juan del Sur. Although this is a gorgeous four bedroom, four bathroom, nearly-500 sq. meter property, the most impressive thing about it is its breathtaking view of San Juan del Sur. To see a firsthand tour of this gorgeous property, watch our latest video.
 
 &nbsp;
