@@ -20,7 +20,7 @@ youtube_code: wbkvm-BRQlY
 
 {% include youtube.html %}
 
-Laura Taylor-Johnson joins me today to share her take on the San Juan Del Sur rental market.&nbsp;
+<p style="text-align:center;"><em>Laura Taylor-Johnson joins me today to share her take on the San Juan Del Sur rental market.&nbsp;</em></p>
 
 How’s the rental market in San Juan Del Sur? To answer that question, I’ve invited Laura Taylor-Johnson, the head of Selva Pacifica, to join me for today’s video.&nbsp;
 
