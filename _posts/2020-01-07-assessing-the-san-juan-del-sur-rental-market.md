@@ -40,6 +40,6 @@ With so many rental homes in the market, **she also advises differentiating your
 
 If you have any questions for Laura, you can email her at [selvapacifica@icloud.com](mailto:selvapacifica@icloud.com). If you’d like to know more about Selva Pacifica, feel free to visit their website selvapacifica.com.&nbsp;
 
-As always, if you have any real estate questions for me, don’t hesitate to give me a call or send me an email. I’d love to help you.
+As always, if you have any real estate questions, don’t hesitate to give me a call or send me an email. I’d love to help you.
 
 &nbsp;
