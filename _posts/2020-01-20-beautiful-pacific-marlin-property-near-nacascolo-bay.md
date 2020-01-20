@@ -16,7 +16,7 @@ youtube_alternate_image: >-
 youtube_code:
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_27AWy6O9Y0?start=114" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_27AWy6O9Y0?start=114" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p style="text-align:center;"><em>I’m showing inside this unique, 600-square-meter property in Pacific Marlin.</em></p>
 
