@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Home Comes With Its Own Pool and Movie Theater
-date:
+date: 2020-01-28 22:12:49
 tags:
   - Real Estate
 excerpt: >-
