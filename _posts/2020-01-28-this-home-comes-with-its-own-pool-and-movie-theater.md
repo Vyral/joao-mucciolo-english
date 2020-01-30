@@ -20,7 +20,8 @@ youtube_code: q7HaptpYC_U
 
 {% include youtube.html %}
 
-*I have another fantastic home in San Juan Del Sur that I'm excited to show you today.*
+<p style="text-align: center;"><em>I have another fantastic home in San Juan Del Sur that I'm excited to show you today.</em></p>
+
 
 &nbsp;At the bottom of Pacific Marlin lies a wonderful property I’m excited to give you an exclusive preview of today. It has seven bedrooms, a movie theater, private pool, and it’s just steps away from the bay of San Juan Del Sur\! On top of that, it features a gorgeous view of the bay itself. For $575,000, this home can be yours.&nbsp;**To see a room-by-room walk-through, watch the video above.&nbsp;**
 
