@@ -27,4 +27,4 @@ youtube_code: q7HaptpYC_U
 
 If you’d like to know more about this property or are interested in purchasing, don’t hesitate to call or email me. I’d love to speak with you.
 
-Check out the listing:&nbsp;https://www.kwnicaragua.com/Detached-House-For-Sale-San-Juan-del-Sur-1082-760
+Check out the listing: https://www.kwnicaragua.com/Detached-House-For-Sale-San-Juan-del-Sur-1082-760
