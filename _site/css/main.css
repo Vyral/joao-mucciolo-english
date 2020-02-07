@@ -1111,6 +1111,9 @@ there.
   background-color: #b40101;
   border: 0px solid #b40101; }
 
+@media(max-width: 767px) {
+  .dropdown-content {
+    position: relative; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
