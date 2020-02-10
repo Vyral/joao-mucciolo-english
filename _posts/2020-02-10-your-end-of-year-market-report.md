@@ -21,7 +21,8 @@ youtube_code: Jl4o7Deqd5A
 
 {% include youtube.html %}
 
-Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.
+<p style="text-align: center;"><em>Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.</em></p>
+
 
 In 2019, the Trinity Team sold 34 properties, representing 64 total sides (buyers and sellers). For the majority of those transactions, we represented both sides at the same time.&nbsp;
 
