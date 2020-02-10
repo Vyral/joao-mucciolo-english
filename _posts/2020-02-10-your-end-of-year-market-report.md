@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your End-of-Year Market Report
-date:
+date: 2020-02-10 16:06:12
 tags:
   - Real Estate
   - Market Update
