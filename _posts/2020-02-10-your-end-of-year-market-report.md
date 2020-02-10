@@ -7,7 +7,7 @@ tags:
   - Market Update
 excerpt: >-
   Today I’m sharing your 2019 market wrap-up and discussing the impact of
-  tourism
+  tourism.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Your+End-of-Year+Market+Report.mp4
 pullquote: 'From what I saw, prices remained constant throughout 2019.'
