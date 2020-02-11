@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao---a-2019-market-review-for-san-juan-del-sur-and-tola---una-revisión-del-mercado-2019-para-san-juan-del-sur-y-tola-youtube.jpg
-youtube_code: Jl4o7Deqd5A
+youtube_code: Jl4o7Deqd5A?start=269
 ---
 
 {% include youtube.html %}
