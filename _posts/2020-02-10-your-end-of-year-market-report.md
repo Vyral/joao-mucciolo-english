@@ -16,10 +16,11 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao---a-2019-market-review-for-san-juan-del-sur-and-tola---una-revisión-del-mercado-2019-para-san-juan-del-sur-y-tola-youtube.jpg
-youtube_code: Jl4o7Deqd5A?t=269
+youtube_code: 
 ---
 
 {% include youtube.html %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jl4o7Deqd5A?start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="text-align: center;"><em>Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.</em></p>
 
