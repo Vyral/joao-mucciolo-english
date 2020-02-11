@@ -41,6 +41,6 @@ At the start of 2019, Selva Pacifica saw an occupancy rate of less than 20%. By 
 
 Again, **this improvement in tourism didn’t translate to an improvement in prices.** In my opinion, prices remained constant throughout 2019. In certain areas, like Villas de Palermo, we even saw small spikes in prices, though this is likely because investors bought 10 or so properties very low and prices adjusted later on.&nbsp;
 
-We saw that most Nicaraguans bought in our market at the beginning of 2019, but as the year progressed, foreigners showed more confidence in the market and began to buy more.
+We saw mostly Nicaraguans buying in our market early on in 2019, but as the year progressed, foreigners were made up a larger portion of our buyers.&nbsp;
 
 If you’d like more concrete information, please reach out to me via phone or email. I’d be happy to provide you with a more focused opinion on what happened in our market last year.
