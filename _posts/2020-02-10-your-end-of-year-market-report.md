@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your End-of-Year Market Report
-date: 2020-02-10 16:06:12
+date: 2020-02-10 16:06:00
 tags:
   - Real Estate
   - Market Update
@@ -21,8 +21,7 @@ youtube_code: Jl4o7Deqd5A?t=269
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.</em></p>
-
+*Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.*
 
 In 2019, the Trinity Team sold 34 properties, representing 64 total sides (buyers and sellers). For the majority of those transactions, we represented both sides at the same time.&nbsp;
 
