@@ -19,11 +19,9 @@ youtube_alternate_image: >-
 youtube_code: 
 ---
 
+<div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Jl4o7Deqd5A?start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-<div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Jl4o7Deqd5A?start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<p style="text-align: center;"><em>Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.</em></p>
-
+*Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.*
 
 In 2019, the Trinity Team sold 34 properties, representing 64 total sides (buyers and sellers). For the majority of those transactions, we represented both sides at the same time.&nbsp;
 
@@ -43,6 +41,6 @@ At the start of 2019, Selva Pacifica saw an occupancy rate of less than 20%. By 
 
 Again, **this improvement in tourism didn’t translate to an improvement in prices.** In my opinion, prices remained constant throughout 2019. In certain areas, like Villas de Palermo, we even saw small spikes in prices, though this is likely because investors bought 10 or so properties very low and prices adjusted later on.&nbsp;
 
-We saw mostly Nicaraguans buying in our market early on in 2019, but as the year progressed, foreigners made up a larger portion of our buyers.
+We saw that most Nicaraguans bought in our market at the beginning of 2019, but as the year progressed, foreigners showed more confidence in the market and began to buy more.
 
 If you’d like more concrete information, please reach out to me via phone or email. I’d be happy to provide you with a more focused opinion on what happened in our market last year.
