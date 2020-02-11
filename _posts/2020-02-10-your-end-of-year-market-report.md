@@ -16,13 +16,12 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/joao---a-2019-market-review-for-san-juan-del-sur-and-tola---una-revisión-del-mercado-2019-para-san-juan-del-sur-y-tola-youtube.jpg
-youtube_code: Jl4o7Deqd5A?start=269
+youtube_code: Jl4o7Deqd5A?t=269
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.</em></p>
-
+*Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.*
 
 In 2019, the Trinity Team sold 34 properties, representing 64 total sides (buyers and sellers). For the majority of those transactions, we represented both sides at the same time.&nbsp;
 
