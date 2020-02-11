@@ -20,7 +20,7 @@ youtube_code:
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jl4o7Deqd5A?start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Jl4o7Deqd5A?start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p style="text-align: center;"><em>Today I’m sharing your 2019 market wrap-up and discussing the impact of tourism.</em></p>
 
