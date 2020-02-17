@@ -41,6 +41,6 @@ The best part? El Encanto del Sur has plenty of lots, houses, and bungalows avai
 
 7:59—Wrapping things up
 
-If you’d like to know more about El Encanto del Sur and TreeCasa Resort, you can visit [elencantodelsur.com](elencantodelsur.com){: target="_blank"} or [treecasaresort.com](treecasaresort.com){: target="_blank"}.&nbsp;
+If you’d like to know more about El Encanto del Sur and TreeCasa Resort, you can visit [elencantodelsur.com]https://elencantodelsur.com/){: target="_blank"} or [treecasaresort.com](https://www.treecasaresort.com/){: target="_blank"}.&nbsp;
 
 As always, if you have any other real estate questions or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
