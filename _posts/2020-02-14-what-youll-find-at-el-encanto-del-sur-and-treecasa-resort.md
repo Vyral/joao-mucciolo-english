@@ -19,7 +19,7 @@ youtube_code: tyiwaBuhs18
 
 {% include youtube.html %}
 
-*El Encanto del Sur and TreeCasa Resort are two places I’m proud to spotlight in today’s video.*
+<p style="text-align: center;"><em>El Encanto del Sur and TreeCasa Resort are two places I’m proud to spotlight in today’s video.</em></p>
 
 El Encanto del Sur is one of the premier eco-developments in all of Nicaragua, and tucked inside it is TreeCasa Resort, one of the most exclusive resorts in the entire country. Today I’m showcasing both places, and joining me are their two founders, Doug Jackson and Dhruv Gulati. Doug and Dhruv believed in Nicaragua enough to invest in it and get these wonderful projects started. They wanted to build a heterogenous, sustainable, active community, and as you’ll see, they hit a grand slam. The best part? El Encanto del Sur has plenty of lots, houses, and bungalows available, and TreeCasa Resort is open for reservations.&nbsp;
 
