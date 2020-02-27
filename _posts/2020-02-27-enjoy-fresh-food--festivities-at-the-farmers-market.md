@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Enjoy Fresh Food & Festivities at the Farmer’s Market
-date: 2020-02-27 22:36:44
+date: 2020-02-27 22:36:00
 tags:
   - Articles
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Disfrute+de+comida+fresca+y+festividades+en+el+mercado+de+agricultores.mp4
 pullquote: >-
   San Juan del Sur’s local market has a rich variety of locally sourced foods
   and wares.
