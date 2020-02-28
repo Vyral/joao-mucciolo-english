@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Enjoy Fresh Food & Festivities at the Farmer’s Market
+title: Enjoy Fresh Food & Festivities at the Farmers Market
 date: 2020-02-27 22:36:00
 tags:
   - Articles
 excerpt: >-
-  From rich breads to tasty pork, here's what the San Juan del Sur farmer's
+  From rich breads to tasty pork, here's what the San Juan del Sur farmers
   market has to offer
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/Disfrute+de+comida+fresca+y+festividades+en+el+mercado+de+agricultores.mp4
@@ -22,9 +22,9 @@ youtube_code: pH5DnhhW2vk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>From rich breads to tasty pork, here's what the San Juan del Sur farmer's market has to offer.</em></p>
+<p style="text-align: center;"><em>From rich breads to tasty pork, here's what the San Juan del Sur farmers market has to offer.</em></p>
 
-Today we’re exploring the farmer’s market in San Juan del Sur\! Every week, local growers and a few expats come together in one space to sell organic, locally-sourced goods.
+Today we’re exploring the farmers market in San Juan del Sur\! Every week, local growers and a few expats come together in one space to sell organic, locally-sourced goods.
 
 **At 1:44** in the video above, watch my interview (in Spanish) with Merlinda, whose fresh breads are a market staple\! We enjoy her coconut bread at home all the time.&nbsp;
 
