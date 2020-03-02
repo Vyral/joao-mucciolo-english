@@ -22,7 +22,7 @@ youtube_code: L8CnQdxd8Wo
 
 {% include youtube.html %}
 
-*From rich breads to tasty pork, here's what the San Juan del Sur farmers market has to offer.*
+<p style="text-align: center;"><em>From rich breads to tasty pork, here's what the San Juan del Sur farmers market has to offer.</em></p>
 
 Today we’re exploring the farmers market in San Juan del Sur\! Every week, local growers and a few expats come together in one space to sell organic, locally-sourced goods.
 
