@@ -16,13 +16,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
-  /uploads/joao---echa-un-vistazo-al-mercado-de-productores-de-san-juan-del-sur-youtube.jpg
+  /uploads/joao---echa-un-vistazo-al-mercado-de-productores-de-san-juan-del-sur-youtube-1.jpg
 youtube_code: L8CnQdxd8Wo
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>From rich breads to tasty pork, here's what the San Juan del Sur farmers market has to offer.</em></p>
+*From rich breads to tasty pork, here's what the San Juan del Sur farmers market has to offer.*
 
 Today we’re exploring the farmers market in San Juan del Sur\! Every week, local growers and a few expats come together in one space to sell organic, locally-sourced goods.
 
