@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Meet the Team
 permalink: /about/
 ---
 <div class="whitespace">
