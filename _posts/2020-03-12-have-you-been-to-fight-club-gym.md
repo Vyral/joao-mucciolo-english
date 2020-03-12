@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Been to Fight Club Gym?
-date: 2020-03-12 21:28:31
+date: 2020-03-12 21:28:00
 tags:
   - Articles
 excerpt: >-
@@ -18,6 +18,8 @@ youtube_code: 1PJx9hNGzNo
 ---
 
 {% include youtube.html %}
+
+Fight Club Gym is a great local business here in San Juan del Sur, and today the spotlight is on them.
 
 Today we’re showcasing a local San Juan del Sur business that was started by an expat from Hawaii. Justin Williams is the man behind Fight Club Gym, and we caught up with him recently to learn more about what brought him here to Nicaragua and what his gym offers to those who choose to call it home.
 
