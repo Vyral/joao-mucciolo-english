@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leadership Coaches Can Make Navigating Challenges Easier
-date:
+date: 2020-03-24 15:38:03
 tags:
   - Real Estate
 excerpt: "José Bolaños is a life coach\_and a dear friend of mine who helped me navigate through many transitions in my life."
