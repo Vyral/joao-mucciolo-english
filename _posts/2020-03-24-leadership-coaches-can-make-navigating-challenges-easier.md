@@ -17,4 +17,6 @@ youtube_code: swFusIEZTCQ
 
 {% include youtube.html %}
 
-Jos&eacute; Bola&ntilde;os is a life coach and a dear friend of mine who helped me navigate through many transitions in my life. Given the trying nature of the times we live in currently, I thought now was a great time to sit him down for an interview and learn more about how he helps business leaders succeed. Jos&eacute; specializes in helping leaders build their complexity capabilities—in other words, he helps leaders strengthen themselves and get past complex challenges.&nbsp;
+Jos&eacute; Bola&ntilde;os is a life coach and a dear friend of mine who helped me navigate through many transitions in my life. Given the trying nature of the times we live in currently, I thought now was a great time to sit him down for an interview and learn more about how he helps business leaders succeed. Jos&eacute; specializes in helping leaders build their complexity capabilities—in other words, **he helps leaders strengthen themselves and get past complex challenges**. Follow along in the video above to see our full interview.
+
+If you have any questions, please feel free to reach out via phone or email. I would be happy to help you.
