@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leadership Coaches Can Make Navigating Challenges Easier
-date: 2020-03-24 15:38:03
+date: 2020-03-24 15:38:00
 tags:
   - Real Estate
 excerpt: "José Bolaños is a life coach\_and a dear friend of mine who helped me navigate through many transitions in my life."
@@ -17,4 +17,4 @@ youtube_code: swFusIEZTCQ
 
 {% include youtube.html %}
 
-Jos&eacute; Bola&ntilde;os is a life coach and a dear friend of mine who helped me navigate through many transitions in my life. Given the trying nature of the times we live in currently, I thought now was a great time to sit him down for an interview and learn more about how he helps business leaders succeed. Jos&eacute; specializes in helping leaders build their complexity capabilities—in other words, he helps leaders strengthen themselves and get past complex challenges. To find out how he does it and the last impact his teachings can have, watch my latest video.
+Jos&eacute; Bola&ntilde;os is a life coach and a dear friend of mine who helped me navigate through many transitions in my life. Given the trying nature of the times we live in currently, I thought now was a great time to sit him down for an interview and learn more about how he helps business leaders succeed. Jos&eacute; specializes in helping leaders build their complexity capabilities—in other words, he helps leaders strengthen themselves and get past complex challenges.&nbsp;
