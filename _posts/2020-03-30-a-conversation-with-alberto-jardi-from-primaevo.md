@@ -20,7 +20,7 @@ youtube_code: VdfRaKP3HgQ
 
 {% include youtube.html %}
 
-Alberto Jardi founded PrimaEvo with the mission of helping people get fresh, organic food delivered directly to their homes. Here are his recommendations for staying as healthy as possible during a global pandemic.
+<p style="text-align: center;"><em>Alberto Jardi founded PrimaEvo with the mission of helping people get fresh, organic food delivered directly to their homes. Here are his recommendations for staying as healthy as possible during a global pandemic.</em></p>
 
 Today I’m joined by Alberto Jardi from PrimaEvo. We love his delicious goods, and every time we have a transaction, my clients get a basket of his wonderful organic products. He sat down with me to talk a little bit about his business, the importance of having a healthy diet, and ways to boost your immune system during these crazy times.
 
