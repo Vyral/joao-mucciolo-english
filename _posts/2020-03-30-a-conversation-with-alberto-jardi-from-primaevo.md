@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Conversation with Alberto Jardi from PrimaEvo
-date:
+date: 2020-03-30 20:37:53
 tags:
   - Real Estate
 excerpt: >-
