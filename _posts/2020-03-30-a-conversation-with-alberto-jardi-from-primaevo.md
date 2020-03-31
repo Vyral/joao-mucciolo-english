@@ -10,7 +10,7 @@ excerpt: >-
   for staying as healthy as possible during a global pandemic.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joao+Mucciolo/A+Conversation+with+Alberto+Jardi+from+PrimaEvo.mp4
-pullquote: Mantenerse al día con el ejercicio de baja intensidad es muy importante para su salud.
+pullquote: Keeping up with low-intensity exercise is very important for your health.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
