@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A Conversation With Alberto Jardi From PrimaEvo
+title: A Conversation With Alberto Yardi From PrimaEvo
 date: 2020-03-30 20:37:53
 tags:
   - Real Estate
 excerpt: >-
-  Alberto Jardi founded PrimaEvo with the mission of helping people get fresh,
+  Alberto Yardi founded PrimaEvo with the mission of helping people get fresh,
   organic food delivered directly to their homes. Here are his recommendations
   for staying as healthy as possible during a global pandemic.
 enclosure: >-
@@ -20,11 +20,11 @@ youtube_code: VdfRaKP3HgQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Alberto Jardi founded PrimaEvo with the mission of helping people get fresh, organic food delivered directly to their homes. Here are his recommendations for staying as healthy as possible during a global pandemic.</em></p>
+<p style="text-align: center;"><em>Alberto Yardi founded PrimaEvo with the mission of helping people get fresh, organic food delivered directly to their homes. Here are his recommendations for staying as healthy as possible during a global pandemic.</em></p>
 
-Today I’m joined by Alberto Jardi from PrimaEvo. We love his delicious goods, and every time we have a transaction, my clients get a basket of his wonderful organic products. He sat down with me to talk a little bit about his business, the importance of having a healthy diet, and ways to boost your immune system during these crazy times.
+Today I’m joined by Alberto Yardi from PrimaEvo. We love his delicious goods, and every time we have a transaction, my clients get a basket of his wonderful organic products. He sat down with me to talk a little bit about his business, the importance of having a healthy diet, and ways to boost your immune system during these crazy times.
 
-Alberto Jardi&nbsp; is also a life coach, personal trainer, yoga instructor, and longevity enthusiast. **He founded PrimaEvo four years ago as a way to connect those who produce organic food with those who want to consume it.** Small, local entrepreneurs are producing these organic meats, fruits, vegetables, and other products, and PrimaEvo is delivering them to homes all over Nicaragua.
+Alberto Yardi&nbsp; is also a life coach, personal trainer, yoga instructor, and longevity enthusiast. **He founded PrimaEvo four years ago as a way to connect those who produce organic food with those who want to consume it.** Small, local entrepreneurs are producing these organic meats, fruits, vegetables, and other products, and PrimaEvo is delivering them to homes all over Nicaragua.
 
 {% include pullquote.html %}
 
