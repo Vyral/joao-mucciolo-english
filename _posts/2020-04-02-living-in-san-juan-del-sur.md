@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Living in San Juan del Sur
-date: 2020-04-02 16:32:51
+date: 2020-04-02 16:32:00
 tags:
   - Articles
-excerpt:
+excerpt: >-
+  Este es el resumen que se coloca en la parte de afuera del blgo, para que las
+  personas lean de que se trata.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
