@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Join me on a Virtual Tour of Rancho Papayal in San Juan del Sur. Rivas,
-  Nicaragua
+title: A Virtual Tour of Rancho Papayal in San Juan del Sur
 date: 2020-04-08 17:27:00
 tags:
   - Real Estate
@@ -16,10 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: dfV4N
+youtube_code: dfV4N-BGMSc&t=
 ---
 
 {% include youtube.html %}
+
+Join me on a Virtual Tour of Rancho Papayal in San Juan del Sur. Rivas, Nicaragua
 
 Today I wanted to take you on a Virtual Tour of this beautiful house just 10 minutes from San Juan del Sur, Nicaragua.
 
