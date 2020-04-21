@@ -7,7 +7,7 @@ excerpt: >-
   I know we have many business owners on our client list, so I decided it was a
   great idea to interview Daniel Marcos, CEO of the Growth Institute
 enclosure:
-pullquote:
+pullquote: Share this video with your network
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
