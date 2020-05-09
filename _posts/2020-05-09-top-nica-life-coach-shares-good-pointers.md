@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Nica life coach shares good pointers
-date: 2020-05-09 16:25:47
+date: 2020-05-09 16:25:00
 tags:
 excerpt: >-
   I met Nadia Vado in a Yoga workshop. What I liked most about the workshop was
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ncrosek5ZJk&t
+youtube_code: ncrosek5ZJk
 ---
 
 {% include youtube.html %}
