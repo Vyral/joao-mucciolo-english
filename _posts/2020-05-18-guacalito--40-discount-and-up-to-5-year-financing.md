@@ -1,9 +1,12 @@
 ---
 layout: post
 title: GUACALITO -40% discount and up to 5 year financing
-date: 2020-05-18 02:21:38
+date: 2020-05-18 02:21:00
 tags:
-excerpt:
+excerpt: >-
+  Guacalito de la Isla is the most luxurious gated community in the Coast of
+  Nicaragua. Golf, Tennis, Beach club, restaurants, social areas, beach … are
+  some of the amenities you will find here.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -15,7 +18,7 @@ youtube_code: FWa6yXSLncQ
 
 {% include youtube.html %}
 
-Guacalito de la Isla is the most luxurious gated community in the Coast of Nicaragua. Golf, Tennis, Beach club, restaurants, social areas, beach ... are some of the amenities you will find here.
+Guacalito de la Isla is the most luxurious gated community in the Coast of Nicaragua. Golf, Tennis, Beach club, restaurants, social areas, beach … are some of the amenities you will find here.
 
 Today we are launching a special promotion of 3 and 4 bedroom condos, service area, view, and some with their own private pool.
 
