@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Are you going a bit crazy with the kids at home?
-date: 2020-06-02 12:17:33
+date: 2020-06-02 12:17:00
 tags:
-excerpt:
+excerpt: >-
+  We met Anadylia Cuadra in a conference for parents with young children when my
+  wife was pregnant with our first daughter. Anadylia's tips fascinated us
 enclosure:
 pullquote:
 enclosure_type: video/mp4
