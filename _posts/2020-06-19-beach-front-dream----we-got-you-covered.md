@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Beach Front Dream... we got you covered
-date: 2020-06-19 17:21:45
+date: 2020-06-19 17:21:00
 tags:
-excerpt:
+excerpt: >-
+  Beachfront opportunities in the San Juan del Sur area are not that common. For
+  this reason, I am very excited to be able to show you this beachfront option
+  in Paradise Bay, just 5 minutes from town.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
